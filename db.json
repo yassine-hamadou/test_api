@@ -53,5 +53,23 @@
       "date": "11/4/2022",
       "numberOfPlayers": 3
     }
+  ],
+  "members": [
+    {
+      "player": 1,
+      "name": "John Doe"
+    },
+    {
+      "player": 2,
+      "name": "Jane Doe"
+    },
+    {
+      "player": 3,
+      "name": "John Smith"
+    },
+    {
+      "player": 4,
+      "name": "Jane Smith"
+    }
   ]
 }
